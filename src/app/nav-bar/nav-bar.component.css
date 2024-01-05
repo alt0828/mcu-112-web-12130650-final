@@ -1,0 +1,45 @@
+:host {
+  display: block;
+  padding: 10px;
+  border: 0ch;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  justify-content: space-around;
+}
+nav > a {
+  font-family: titillium web, sans-serif;
+  font-size: 1.5rem;
+  padding-top: 0;
+  margin-right: 2rem;
+  color: #5cb85c;
+  font-weight: bold;
+}
+nav > ul > li > a {
+  display: block;
+  padding-top: 0.425rem;
+  padding-bottom: 0.425rem;
+  color: rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  text-decoration: none;
+}
+nav > ul {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+nav > ul {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  gap: 20px;
+}
+nav > ul > li > a:hover {
+  color: #373a3c;
+}
