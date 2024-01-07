@@ -1,6 +1,5 @@
-.host {
+:host {
   display: block;
   padding: 220px;
   border: 0ch;
-  border: solid 1px red;
 }
