@@ -10,4 +10,5 @@ export const routes: Routes = [
   { path: 'New Article', component: NewArticlePageComponent },
   { path: 'Sign in', component: SignInPageComponent },
   { path: 'Sign up', component: SignUpPageComponent },
+  { path: 'conduit', component: HomePageComponent },
 ];
