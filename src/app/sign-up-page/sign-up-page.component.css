@@ -3,3 +3,18 @@
   text-align: center !important;
   min-height: 22.7vh;
 }
+
+span {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.1;
+  color: inherit;
+  margin-top: 0;
+}
+
+p {
+  color: #5cb85c;
+  text-decoration: none;
+}
