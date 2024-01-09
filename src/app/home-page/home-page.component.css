@@ -1,0 +1,22 @@
+.host {
+}
+ul {
+  float: left;
+  list-style: none;
+  font-family: source sans pro, sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+li.yf > a {
+  text-decoration: none;
+  background: #fff !important;
+  color: #5cb85c !important;
+  border-radius: 0;
+  border: none;
+}
+
+li.gf {
+  background: #fff !important;
+  color: #5cb85c !important;
+}
