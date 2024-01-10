@@ -1,8 +1,10 @@
 :host {
   display: block;
-  padding: 30px;
+  color: #fff;
   background-color: #5cb85c;
-  border: 0ch;
+  font-size: 1.5rem;
+  padding: 10px;
+  text-align: center;
 }
 
 h1 {
