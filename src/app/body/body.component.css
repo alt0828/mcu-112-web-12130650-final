@@ -8,6 +8,7 @@
   padding-left: 15px;
   padding-right: 15px;
   display: flex;
+  width: 1140px;
 }
 
 .container > div {
@@ -20,7 +21,8 @@
   flex: 0 0 75%;
 }
 
-.tag-list {
+.tag-sidebar {
   padding-left: 15px;
-  flex: 0 0 20%;
+  padding-right: 15px;
+  flex: 0 0 25%;
 }
