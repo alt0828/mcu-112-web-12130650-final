@@ -1,5 +1,26 @@
 :host {
   display: block;
-  padding: 220px;
-  border: 0ch;
+  margin-top: 1.5rem;
+}
+
+.container {
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  display: flex;
+}
+
+.container > div {
+  outline: solid 1px red;
+}
+
+div.articles {
+  padding-left: 15px;
+  padding-right: 15px;
+  flex: 0 0 75%;
+}
+
+div.tags {
+  padding-left: 15px;
+  flex: 0 0 20%;
 }
